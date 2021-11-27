@@ -1,0 +1,6 @@
+aws:
+  s3:
+    bucketName: xiangma9712-test
+  credentials:
+    AccessKeyId: ~
+    SecretAccessKey: ~
